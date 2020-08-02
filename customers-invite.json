@@ -1,0 +1,178 @@
+[
+    {
+        "latitude": "53.2451022",
+        "user_id": 4,
+        "name": "Ian Kehoe",
+        "longitude": "-6.238335",
+        "distance": {
+            "measurement": "kilometres",
+            "amount": 10.56693628886876,
+            "amount_percise": 10.576515749270134
+        }
+    },
+    {
+        "latitude": "53.1302756",
+        "user_id": 5,
+        "name": "Nora Dempsey",
+        "longitude": "-6.2397222",
+        "distance": {
+            "measurement": "kilometres",
+            "amount": 23.287320663099482,
+            "amount_percise": 23.307523530220266
+        }
+    },
+    {
+        "latitude": "53.1229599",
+        "user_id": 6,
+        "name": "Theresa Enright",
+        "longitude": "-6.2705202",
+        "distance": {
+            "measurement": "kilometres",
+            "amount": 24.085360019144122,
+            "amount_percise": 24.106160685907398
+        }
+    },
+    {
+        "latitude": "53.008769",
+        "user_id": 11,
+        "name": "Richard Finnegan",
+        "longitude": "-6.1056711",
+        "distance": {
+            "measurement": "kilometres",
+            "amount": 38.137568098201655,
+            "amount_percise": 38.17654770979937
+        }
+    },
+    {
+        "latitude": "53.0033946",
+        "user_id": 39,
+        "name": "Lisa Ahearn",
+        "longitude": "-6.3877505",
+        "distance": {
+            "measurement": "kilometres",
+            "amount": 38.35801477480562,
+            "amount_percise": 38.39539228726191
+        }
+    },
+    {
+        "latitude": "52.986375",
+        "user_id": 12,
+        "name": "Christina McArdle",
+        "longitude": "-6.043701",
+        "distance": {
+            "measurement": "kilometres",
+            "amount": 41.7687255008362,
+            "amount_percise": 41.81601095294603
+        }
+    },
+    {
+        "latitude": "52.966",
+        "user_id": 15,
+        "name": "Michael Ahearn",
+        "longitude": "-6.463",
+        "distance": {
+            "measurement": "kilometres",
+            "amount": 43.72248745925171,
+            "amount_percise": 43.769945669886894
+        }
+    },
+    {
+        "latitude": "53.1489345",
+        "user_id": 31,
+        "name": "Alan Behan",
+        "longitude": "-6.8422408",
+        "distance": {
+            "measurement": "kilometres",
+            "amount": 44.29082235506624,
+            "amount_percise": 44.41157005772964
+        }
+    },
+    {
+        "latitude": "53",
+        "user_id": 13,
+        "name": "Olive Ahearn",
+        "longitude": "-7",
+        "distance": {
+            "measurement": "kilometres",
+            "amount": 62.23170226292825,
+            "amount_percise": 62.38000779102228
+        }
+    },
+    {
+        "latitude": "53.74452",
+        "user_id": 29,
+        "name": "Oliver Ahearn",
+        "longitude": "-7.11167",
+        "distance": {
+            "measurement": "kilometres",
+            "amount": 72.20178549704269,
+            "amount_percise": 72.37279860532777
+        }
+    },
+    {
+        "latitude": "53.761389",
+        "user_id": 30,
+        "name": "Nick Enright",
+        "longitude": "-7.2875",
+        "distance": {
+            "measurement": "kilometres",
+            "amount": 82.64284999110231,
+            "amount_percise": 82.85181752941668
+        }
+    },
+    {
+        "latitude": "54.080556",
+        "user_id": 23,
+        "name": "Eoin Gallagher",
+        "longitude": "-6.361944",
+        "distance": {
+            "measurement": "kilometres",
+            "amount": 82.6949261163998,
+            "amount_percise": 82.77410789477611
+        }
+    },
+    {
+        "latitude": "54.0894797",
+        "user_id": 8,
+        "name": "Eoin Ahearn",
+        "longitude": "-6.18671",
+        "distance": {
+            "measurement": "kilometres",
+            "amount": 83.53253116785869,
+            "amount_percise": 83.61183376311917
+        }
+    },
+    {
+        "latitude": "54.133333",
+        "user_id": 24,
+        "name": "Rose Enright",
+        "longitude": "-6.433333",
+        "distance": {
+            "measurement": "kilometres",
+            "amount": 89.03103382223571,
+            "amount_percise": 89.11876887254398
+        }
+    },
+    {
+        "latitude": "54.180238",
+        "user_id": 17,
+        "name": "Patricia Cahill",
+        "longitude": "-5.920898",
+        "distance": {
+            "measurement": "kilometres",
+            "amount": 96.07859923633525,
+            "amount_percise": 96.18187119782895
+        }
+    },
+    {
+        "latitude": "53.038056",
+        "user_id": 26,
+        "name": "Stephen McArdle",
+        "longitude": "-7.653889",
+        "distance": {
+            "measurement": "kilometres",
+            "amount": 98.87459926458504,
+            "amount_percise": 99.17094342013674
+        }
+    }
+]

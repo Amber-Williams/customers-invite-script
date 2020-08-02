@@ -1,0 +1,32 @@
+[
+  {
+    "name" : "Intercom New York City office",
+    "latitude": 1000.9283,
+    "longitude": 200.899
+  },
+  {
+    "name" : "Intercom London office",
+    "latitude": 3,
+    "longitude":4
+  },
+  {
+    "name" : "Intercom Tokyo office",
+    "latitude": 5,
+    "longitude": 6
+  },
+  {
+    "name" : "Intercom San Francisco office",
+    "latitude": 8,
+    "longitude": 9
+  },
+  {
+    "name" : "Intercom Berlin office",
+    "latitude": 10,
+    "longitude": 11
+  },
+  {
+    "name" : "Intercom Dublin office",
+    "latitude": 12,
+    "longitude": 13
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "name": "customer-party-invites",
+  "version": "1.0.0",
+  "description": "A script to write party invite list based on office location distance",
+  "main": "create-invites.js",
+  "scripts": {
+    "test": "jest",
+    "create": "node -e 'require(\"./create-invites\").init()'",
+    "lint": "eslint -r *.js"
+  },
+  "author": "amber-williams",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.2.2"
+  }
+}

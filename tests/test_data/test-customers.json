@@ -1,0 +1,20 @@
+[
+  {
+      "latitude": "12.234",
+      "user_id": 12,
+      "name": "Al Pacino",
+      "longitude": "13.234"
+  },
+  {
+      "latitude": "12.245",
+      "user_id": 1,
+      "name": "Bat Man",
+      "longitude": "13.245"
+  },
+  {
+      "latitude": "1000.9283",
+      "user_id": 2,
+      "name": "Eric Wilson",
+      "longitude": "200.899"
+  }
+]
